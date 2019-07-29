@@ -1,1 +1,2 @@
-# PythonProject1_FaceDetection
+# Python Project
+> Face Detection
